@@ -9,3 +9,12 @@ Console.WriteLine("Test");
 Console.WriteLine("Test");
 Console.WriteLine("Test");
 Console.WriteLine("Test");
+
+if (true)
+{
+    Console.WriteLine("Test");
+}
+
+#region Test
+Console.WriteLine("Hallo Mann");
+#endregion

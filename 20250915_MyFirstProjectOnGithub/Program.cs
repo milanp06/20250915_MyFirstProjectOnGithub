@@ -33,4 +33,5 @@ Console.WriteLine("Feature 1");
 #endregion
 
 #region Feature 3
+Console.WriteLine("Feature 3");
 #endregion

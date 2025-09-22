@@ -24,4 +24,5 @@ Console.WriteLine("Hallo Mann");
 // Final commit
 
 #region Feature 1
+Console.WriteLine("Feature 1");
 #endregion
